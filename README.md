@@ -1,16 +1,26 @@
-### Hi there 👋
+# MBA Data Analytics graduate student with 4+ years of experience in operations, procurement, and analytics.
 
-<!--
-**dgmuhlbauer98/dgmuhlbauer98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education
+MBA - Data Analytics
+BBA - International Business Finance
 
-Here are some ideas to get you started:
+### Certifications
+Financial Modeling & Valuation Analyst by Corporate Finance Institue (In Progress)
+Microsoft Excel for Accounting by Wiley Finance & Accounting
+Bloomberg Market Concepts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Work Experience
+Director of Operations Men's Soccer @ Lipscomb University
+- 1
+- 2
+- 3
+
+Category Sourcing Manager @ Philips 
+- 1
+- 2
+- 3
+
+Market Procurement Manager @ Philips
+- 1
+- 2
+- 3

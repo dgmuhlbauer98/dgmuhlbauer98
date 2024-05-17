@@ -1,4 +1,4 @@
-# MBA Data Analytics graduate student with 4+ years of experience in operations, procurement, and analytics.
+# MBA Data Analytics graduate student with 5 years of experience in operations, procurement, and analytics.
 
 ### Education
 MBA - Data Analytics

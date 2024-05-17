@@ -1,13 +1,13 @@
 # MBA Data Analytics graduate student with 5 years of experience in operations, procurement, and analytics.
 
 ### Education
-MBA - Data Analytics
-BBA - International Business Finance
+- MBA - Data Analytics
+- BBA - International Business Finance
 
 ### Certifications
-Financial Modeling & Valuation Analyst by Corporate Finance Institue (In Progress)
-Microsoft Excel for Accounting by Wiley Finance & Accounting
-Bloomberg Market Concepts
+- Financial Modeling & Valuation Analyst by Corporate Finance Institue (In Progress)
+- Microsoft Excel for Accounting by Wiley Finance & Accounting
+- Bloomberg Market Concepts
 
 ### Work Experience
 Director of Operations Men's Soccer @ Lipscomb University

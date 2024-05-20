@@ -10,10 +10,10 @@
 - Market Procurement Manager @ Philips (2020 - 2021)
 - Market Procruement Co-Op @ Philips (2019 - 2020)
 
-### Technical Skill
+### Technical Skills
 - Data analysis/wrangling using Excel/SQL/Python
 - Data visualization and storytelling using Tableau/Python/PowerPoint
 
 ### Soft Skills
-Initiative, Leadereship, Management, Organized, Strategic Collaboration/Planning
+Initiative, Leadereship, Management, Organized, Strategic Collaboration/Planning, Problem-Solving
 

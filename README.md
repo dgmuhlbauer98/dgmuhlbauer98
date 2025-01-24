@@ -5,7 +5,7 @@
 - BBA - International Business, Finance @ Lipscomb University
 
 ### Professional Experience
-- Director of Operations Men's Soccer @ Lipscomb University (2022 - Present)
+- Operations Analyst @ Parallon (2024 - Present)
 - Category Sourcing Manager @ Philips (2021 - 2022)
 - Market Procurement Manager @ Philips (2020 - 2021)
 - Market Procruement Co-Op @ Philips (2019 - 2020)
